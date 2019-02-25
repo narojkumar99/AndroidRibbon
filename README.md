@@ -20,7 +20,7 @@ dependencies {
 ```
 
 ## Usage
-Add following XML namespace inside your XML layout file.
+Add following XML namespace inside your XML layout files.
 
 ```gradle
 xmlns:app="http://schemas.android.com/apk/res-auto"
